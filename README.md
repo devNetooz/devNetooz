@@ -39,7 +39,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/netooop12" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-devNetooz-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 </p>
 
